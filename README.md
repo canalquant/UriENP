@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UriENP
-- 👀 I’m interested in Python, C and C++
+- 👀 I’m interested in Python, R, C and C++
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
